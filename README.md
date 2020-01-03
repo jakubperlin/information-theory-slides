@@ -1,6 +1,5 @@
 # "Intro to coding and information theories and the noisy-channel coding theorem"
-## This repository contains the slides for my Cambridge talk whose title is above.
 
----
+I gave a talk at the University of Cambridge in Oct 2017, and you can find the slides here.
 
-A recording of the talk is available on Youtube: [youtu.be/LhH1d0qup_Y](https://youtu.be/LhH1d0qup_Y)
+A recording of the talk is also available on Youtube: [youtu.be/LhH1d0qup_Y](https://youtu.be/LhH1d0qup_Y)
